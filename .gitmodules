@@ -1,3 +1,6 @@
 [submodule "GLCIC-PyTorch"]
 	path = GLCIC-PyTorch
 	url = https://github.com/yhu9/GLCIC-PyTorch.git
+[submodule "Pluralistic-Inpainting"]
+	path = Pluralistic-Inpainting
+	url = https://github.com/yhu9/Pluralistic-Inpainting.git
