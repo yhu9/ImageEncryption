@@ -4,3 +4,6 @@
 [submodule "Pluralistic-Inpainting"]
 	path = Pluralistic-Inpainting
 	url = https://github.com/yhu9/Pluralistic-Inpainting.git
+[submodule "Image-Encryption-Chaos-Maps"]
+	path = Image-Encryption-Chaos-Maps
+	url = https://github.com/yhu9/Image-Encryption-Chaos-Maps.git
