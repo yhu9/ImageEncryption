@@ -1,0 +1,3 @@
+[submodule "GLCIC-PyTorch"]
+	path = GLCIC-PyTorch
+	url = https://github.com/yhu9/GLCIC-PyTorch.git
